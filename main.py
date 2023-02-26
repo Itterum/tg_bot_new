@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from random import shuffle
 
 
-API_TOKEN = '--'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
